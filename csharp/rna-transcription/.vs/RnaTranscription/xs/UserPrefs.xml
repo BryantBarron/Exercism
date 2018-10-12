@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{0C3AB935-F99A-45A8-AE3B-80CCD3888EB8}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.RnaTranscription PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RnaTranscription.cs">
+    <Files>
+      <File FileName="RnaTranscription.cs" Line="19" Column="10" />
+      <File FileName="RnaTranscriptionTest.cs" Line="24" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

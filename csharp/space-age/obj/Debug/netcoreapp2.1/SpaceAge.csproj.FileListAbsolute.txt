@@ -1,0 +1,14 @@
+/Users/bwalt/Exercism/csharp/space-age/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/bwalt/Exercism/csharp/space-age/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/bwalt/Exercism/csharp/space-age/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/bwalt/Exercism/csharp/space-age/bin/Debug/netcoreapp2.1/SpaceAge.deps.json
+/Users/bwalt/Exercism/csharp/space-age/bin/Debug/netcoreapp2.1/SpaceAge.runtimeconfig.json
+/Users/bwalt/Exercism/csharp/space-age/bin/Debug/netcoreapp2.1/SpaceAge.runtimeconfig.dev.json
+/Users/bwalt/Exercism/csharp/space-age/bin/Debug/netcoreapp2.1/SpaceAge.dll
+/Users/bwalt/Exercism/csharp/space-age/bin/Debug/netcoreapp2.1/SpaceAge.pdb
+/Users/bwalt/Exercism/csharp/space-age/obj/Debug/netcoreapp2.1/SpaceAge.csprojAssemblyReference.cache
+/Users/bwalt/Exercism/csharp/space-age/obj/Debug/netcoreapp2.1/SpaceAge.csproj.CoreCompileInputs.cache
+/Users/bwalt/Exercism/csharp/space-age/obj/Debug/netcoreapp2.1/SpaceAge.AssemblyInfoInputs.cache
+/Users/bwalt/Exercism/csharp/space-age/obj/Debug/netcoreapp2.1/SpaceAge.AssemblyInfo.cs
+/Users/bwalt/Exercism/csharp/space-age/obj/Debug/netcoreapp2.1/SpaceAge.dll
+/Users/bwalt/Exercism/csharp/space-age/obj/Debug/netcoreapp2.1/SpaceAge.pdb

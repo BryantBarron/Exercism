@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{B99AE0AB-D561-4B8F-BC02-2F1B84E37202}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.Gigasecond PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GigasecondTest.cs">
+    <Files>
+      <File FileName="Gigasecond.cs" Line="8" Column="41" />
+      <File FileName="GigasecondTest.cs" Line="33" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
