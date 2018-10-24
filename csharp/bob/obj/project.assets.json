@@ -5760,13 +5760,13 @@
       "projectName": "Bob",
       "projectPath": "/Users/bwalt/Exercism/csharp/bob/Bob.csproj",
       "packagesPath": "/Users/bwalt/.nuget/packages/",
-      "outputPath": "/Users/bwalt/Exercism/csharp/bob/obj",
+      "outputPath": "/Users/bwalt/Exercism/csharp/bob/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/bwalt/.config/NuGet/NuGet.Config"
+        "/Users/bwalt/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
@@ -5790,21 +5790,21 @@
         "dependencies": {
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
-            "version": "15.8.0"
-          },
-          "xunit": {
-            "target": "Package",
-            "version": "2.4.0"
-          },
-          "xunit.runner.visualstudio": {
-            "target": "Package",
-            "version": "2.4.0"
+            "version": "[15.8.0, )"
           },
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.1.0",
+            "version": "[2.1.0, )",
             "autoReferenced": true
+          },
+          "xunit": {
+            "target": "Package",
+            "version": "[2.4.0, )"
+          },
+          "xunit.runner.visualstudio": {
+            "target": "Package",
+            "version": "[2.4.0, )"
           }
         },
         "imports": [
