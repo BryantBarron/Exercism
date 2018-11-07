@@ -1,6 +1,6 @@
 class Series
   def initialize(series)
-    @series = (series)
+    @series = series
   end
 
   def slices(i)
